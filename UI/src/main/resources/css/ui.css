@@ -1,0 +1,18 @@
+.word-fill-pane {
+    -fx-background-radius: 1cm;
+    -fx-background-color: #f2e6be;
+}
+
+.search-result {
+    -fx-background-color:radial-gradient(center 50% 50%, radius 100%, #f2e6be, #faefe3);
+    -fx-background-radius: 0.5cm;
+}
+
+.word-fill-pane2 {
+    -fx-background-radius: 0.5cm;
+    -fx-background-color: #f2e6be;
+}
+
+.main-background {
+    -fx-background-color: linear-gradient(to right, #034e49, #05645e);
+}
